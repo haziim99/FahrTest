@@ -1,0 +1,1 @@
+import{Ua as t,ib as o,ic as p,jb as r,wb as u}from"./chunk-RBFWDJ2K.js";var f=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["app-pruefung"]],decls:2,vars:0,template:function(e,s){e&1&&(o(0,"p"),u(1,"pruefung works!"),r())},dependencies:[p],encapsulation:2})};export{f as Pruefung};
